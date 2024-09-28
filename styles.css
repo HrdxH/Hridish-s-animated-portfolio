@@ -50,8 +50,6 @@ html,body{
 #nav img{
     height: 80px;
     mix-blend-mode: multiply;
-    mix-blend-mode: 
-
 
 }
 #nleft, #nright{
@@ -87,7 +85,7 @@ html,body{
 }
 #heroleft .elem{
     position: relative;
-    height: 8vw;
+    height: 6vw;
     overflow: hidden;
 }
 #heroleft .elem h1:nth-child(1){
@@ -101,7 +99,7 @@ html,body{
     font-family: "kajiro";
     color: #ffeeee;
     font-weight: 100;
-    font-size: 8vw;
+    font-size: 6vw;
 }
 #heroleft button{
     pointer-events: all;
