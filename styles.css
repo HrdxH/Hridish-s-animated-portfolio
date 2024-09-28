@@ -80,7 +80,7 @@ html,body{
     width: 100%;
 }
 #heroleft{
-   min-width: 50%;
+   width: 70%;
    
 }
 #heroleft .elem{
