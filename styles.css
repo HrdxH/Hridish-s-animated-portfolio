@@ -99,7 +99,7 @@ html,body{
     font-family: "kajiro";
     color: #ffeeee;
     font-weight: 100;
-    font-size: 11vw;
+    font-size: 4vw;
 }
 #heroleft button{
     pointer-events: all;
@@ -181,7 +181,7 @@ html,body{
         opacity: 0;
     }
 }
-@media screen and (max-width: 1920px) {
+@media screen and (max-width: 1600px) {
     *{
         margin: 0;
         padding: 0;
